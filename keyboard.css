@@ -1,0 +1,40 @@
+.button{
+  background-color:rgb(25, 51, 77);
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  border-radius: 7px;
+  height: 35px;
+  width: 60px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.button1{
+  margin-top: 10.0px;
+  background-color:rgb(25, 51, 77);
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 600;
+  border-radius: 7px;
+  height: 55px;
+  width: 64px; 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.buttonbackspace{
+  margin-top: 10.0px;
+  background-color:rgb(25, 51, 77);
+  font-weight: 600;
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  border-radius: 7px;
+  height: 55px;
+  width: 120px;  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.buttonleft{
+    margin-left: 10px;
+}
